@@ -61,10 +61,10 @@ tinymins@github/JX3_MY_DATA:/MY_TeamMon/zhcn/meta.json
 tinymins@github/JX3_MY_DATA?master:/MY_TeamMon/zhcn/meta.json
 ```
 
-在劍網3簡體客戶端中，輸入上述示例短鏈接，均等價於直接輸入如下描述文件地址
+在劍網3繁體客戶端中，輸入上述示例短鏈接，均等價於直接輸入如下描述文件地址
 
 ```
-https://raw.githubusercontent.com/tinymins/JX3_MY_DATA/master/MY_TeamMon/zhcn/meta.json
+https://raw.githubusercontent.com/tinymins/JX3_MY_DATA/master/MY_TeamMon/zhtw/meta.json
 ```
 
 ## 自製雲數據
