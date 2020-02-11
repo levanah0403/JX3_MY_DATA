@@ -1,0 +1,15 @@
+return {
+	TALK = {},
+	DOODAD = {},
+	CASTING = {},
+	BUFF = {},
+	NPC = {},
+	DEBUFF = {},
+	__meta = {
+		szLang = "zhtw",
+		szAuthor = "紅豆鮮奶",
+		nTimeStamp = 1581381017,
+		szServer = "江海雲夢",
+	},
+	CHAT = {},
+}
