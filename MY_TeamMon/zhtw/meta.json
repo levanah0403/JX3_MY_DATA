@@ -1,7 +1,7 @@
 {
   "name": "紅豆PVE數據",
   "author": "紅豆",
-  "version": "20200211_05",
-  "data_url": "./TM-zhtw-20200129_08.26.jx3dat",
+  "version": "20200211_06",
+  "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
